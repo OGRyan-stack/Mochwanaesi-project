@@ -1,0 +1,34 @@
+[
+  {
+    "id": "staff-001",
+    "name": "Dr. Oarabile Mochanaesi",
+    "title": "Chief Executive Director",
+    "role": "leadership",
+    "department": null,
+    "bio": "the leader test",
+    "image_url": "/static/images/uploads/staff_20251116_062050_Screenshot_2025-09-16_221054.png",
+    "email": "Oarabile@foundation.org.za",
+    "linkedin_url": "https://linkedin.com/in/Oarabile"
+  },
+  {
+    "id": "staff-008",
+    "name": "Precious Nkosi",
+    "title": "Student Success Advisor",
+    "role": "program_staff",
+    "department": "Student Services",
+    "bio": null,
+    "image_url": "/static/images/staff/precious-nkosi.jpg",
+    "email": null,
+    "linkedin_url": null
+  },
+  {
+    "id": 1,
+    "name": "Ms. Gaofodisi.jpg",
+    "title": "Head of the Tutoring Committee",
+    "bio": "Serves as the head of the Tutoring Committee for the Mochwanaesi Foundation, where she leads efforts to provide effective academic support to learners. In addition to her leadership role, she is also a mentor.\r\n\r\n",
+    "role": "leadership",
+    "email": "",
+    "linkedin_url": "",
+    "image_url": "/static/images/uploads/staff_20251116_094740_Ms._Gaofodisi.jpg"
+  }
+]
