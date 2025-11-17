@@ -784,4 +784,5 @@ def contact():
     return render_template('contact.html', current_page='contact')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
+
